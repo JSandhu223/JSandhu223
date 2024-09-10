@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jasraj, an <a href="https://www.linkedin.com/in/jasraj-sandhu-91b548164/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jasraj, an <a href="https://www.linkedin.com/in/jasraj-sandhu-91b548164/">IT Professional & Programmer</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
