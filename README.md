@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jasraj, an <a href="https://www.linkedin.com/in/jasraj-sandhu-91b548164/">IT Professional & Programmer</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory via Azure Virtual Machines](https://github.com/JSandhu223/ad-configuration)
@@ -10,7 +10,7 @@
   - [osTicket: Post-Installation Configuration]()
   - [osTicket: Ticket Lifecycle Examples]()
 
-<h2>🤳Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
