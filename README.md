@@ -3,8 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory via Azure Virtual Machines]()
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
+  - [Configuring Active Directory via Azure Virtual Machines](https://github.com/JSandhu223/ad-configuration)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JSandhu223/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JSandhu223/osticket-prereqs)
   - [osTicket: Post-Installation Configuration]()
