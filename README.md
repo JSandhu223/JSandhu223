@@ -1,5 +1,10 @@
 <h1>Hi, I'm Jasraj, an <a href="https://www.linkedin.com/in/jasraj-sandhu-91b548164/">IT Professional & Programmer</a>☺</h1>
 
+<h2>Cybersecurity Projects:</h2>
+
+- <b>Security Operations Center (SOC)</b>
+  - [Building an Automated SOC Environment](https://github.com/JSandhu223/soc-automation)
+
 <h2>Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
