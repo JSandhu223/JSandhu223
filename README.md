@@ -1,4 +1,10 @@
-<h1>Hi, I'm Jasraj, an <a href="https://www.linkedin.com/in/jasraj-sandhu-91b548164/">IT Professional & Programmer</a>☺</h1>
+<h1>Hi, I'm Jasraj. I'm interested in Games Development and IT/Cybersecurity.</a>☺</h1>
+
+<h2>Game Dev</h2>
+
+- <b>Unreal Engine 5 C++</b>
+  - [Creating an RPG with the Gameplay Ability System (GAS)](https://github.com/JSandhu223/unreal-rpg/tree/rpg-attributes)
+  - [Exploring Multiplayer Programming by Creating a Third Person Shooter](https://github.com/JSandhu223/unreal-multiplayer-shooter)
 
 <h2>Cybersecurity Projects:</h2>
 
