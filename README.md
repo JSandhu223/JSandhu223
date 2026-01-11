@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jasraj. I'm interested in Games Development and IT/Cybersecurity.</a>☺</h1>
+<h1>Hi, I'm Jasraj. I'm interested in Game Development and IT/Cybersecurity.</a>☺</h1>
 
 <h2>Game Dev</h2>
 
