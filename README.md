@@ -4,7 +4,7 @@
 
 - <b>Unreal Engine 5 C++</b>
   - [Creating an RPG with the Gameplay Ability System (GAS)](https://github.com/JSandhu223/unreal-rpg/tree/rpg-attributes)
-  - [Exploring Multiplayer Programming by Creating a Third Person Shooter](https://github.com/JSandhu223/unreal-multiplayer-shooter)
+  - [Exploring Multiplayer Networking by Creating a Third Person Shooter](https://github.com/JSandhu223/unreal-multiplayer-shooter)
 
 <h2>Cybersecurity Projects:</h2>
 
