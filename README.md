@@ -1,10 +1,14 @@
-<h1>Hi, I'm Jasraj. My interests are in Full-Stack Development, Games Progamming, and IT/Cybersecurity.</a>☺</h1>
+<h1>Hi, I'm Jasraj. My interests are in Full-Stack Development and Games Progamming.</a>☺</h1>
+
+<h2>Full-Stack</h2>
+- <b>Blazor</b>
+  - [Steam Game Matcher](https://github.com/JSandhu223/game-matcher)
 
 <h2>Game Dev</h2>
-
 - <b>Unreal Engine 5 C++</b>
   - [Creating an RPG with the Gameplay Ability System (GAS)](https://github.com/JSandhu223/unreal-rpg/tree/rpg-attributes)
   - [Exploring Multiplayer Networking by Creating a Third Person Shooter](https://github.com/JSandhu223/unreal-multiplayer-shooter)
+  - [Remaking a Blueprint-based FPS in C++](https://github.com/JSandhu223/UE5_FirstPersonShooter)
 
 <h2>Cybersecurity Projects:</h2>
 
